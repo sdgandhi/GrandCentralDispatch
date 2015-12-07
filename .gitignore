@@ -9,6 +9,7 @@
 build/
 DerivedData
 Carthage/
+Packages/
 
 ## Various settings
 *.pbxuser
@@ -25,3 +26,4 @@ xcuserdata
 *.xccheckout
 *.moved-aside
 *.xcuserstate
+.build
